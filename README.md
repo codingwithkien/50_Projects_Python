@@ -1,2 +1,2 @@
-# 1000_Projects_Python
-1000_Projects_Python
+# 50_Projects_Python
+50_Projects_Python
